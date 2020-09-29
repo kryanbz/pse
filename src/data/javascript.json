@@ -1,35 +1,35 @@
 {
     "id": 1,
-    "name": "JavaScript Quiz",
-    "description": "JavaScript Quiz (Basic Multiple Choice Questions for JavaScript Developers)",
+    "name": "PSE Math Quiz 1",
+    "description": "PSE Math Quiz  (Basic Multiple Choice Questions for STD VI Students)",
     "questions": [
         {
             "id": 1010,
-            "name": "Which HTML tag do we use to put the JavaScript?",
+            "name": "N x 8 = 56, N = ?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "<javascript>",
+                    "name": "48",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "<script>",
+                    "name": "8",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "<js>",
+                    "name": "28",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "None of the above",
+                    "name": "7",
                     "isAnswer": false
                 }
             ],
@@ -41,31 +41,31 @@
         },
         {
             "id": 1011,
-            "name": "Which built-in method calls a function for each element in the array?",
+            "name": "Manuel's dog has a litter of puppies. He gave 3 away and is left with 2. What expression best describes this?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "while()",
+                    "name": "P - 2 = 3",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "loop",
+                    "name": "2 - P = 3",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "forEach",
+                    "name": "P - 3 = 2",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "takeUntil",
+                    "name": "3 - P = 2",
                     "isAnswer": false
                 }
             ],
@@ -77,31 +77,31 @@
         },
         {
             "id": 1012,
-            "name": "What is the difference between let and var?",
+            "name": "If X = 7 and Y = 5, then 2X + Y is?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "let has local scope",
+                    "name": "19",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Both are same",
+                    "name": "24",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "var is new data type",
+                    "name": "17",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "let consumes more cpu and ram",
+                    "name": "12",
                     "isAnswer": false
                 }
             ],
@@ -113,31 +113,31 @@
         },
         {
             "id": 1013,
-            "name": "What is TypeScript?",
+            "name": "613.159 rounded to the nearest hundredths is?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "A Language based on Javascript",
+                    "name": "600.16",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "script that runs on browser",
+                    "name": "600.12",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "A DataType Collection of Javascript",
+                    "name": "613.29",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "None of the above",
+                    "name": "613.50",
                     "isAnswer": false
                 }
             ],
@@ -149,31 +149,31 @@
         },
         {
             "id": 1014,
-            "name": "Which of the following is right syntex for arrow function?",
+            "name": "22/66 expressed in its lowest term is?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "a -> { return b; }",
+                    "name": "2/11",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "x <= x + y;",
+                    "name": "1/3",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "x <- x + 5;",
+                    "name": "11/33",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "x => x + 5;",
+                    "name": "2/6",
                     "isAnswer": true
                 }
             ],
@@ -185,31 +185,31 @@
         },
         {
             "id": 1015,
-            "name": "Which new ES6 syntax helps with formatting output text - mixing variables with string literals, for example.",
+            "name": "4,500,000 expressed in scientific notation is?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Generator Functions",
+                    "name": "4.5 x 10^5",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Arrow Functions",
+                    "name": "45 x 10^6",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Template Strings",
+                    "name": "4.5 x 10^6",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Set Data Structure",
+                    "name": "45 x 10^5",
                     "isAnswer": false
                 }
             ],
@@ -221,31 +221,31 @@
         },
         {
             "id": 1016,
-            "name": "Which ES6 feature helps in merging of a number of changed properties into an existing object?",
+            "name": "What is the place value of the 3 in the number 2.347?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "Class syntex",
+                    "name": "three hundredths",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "Object.assign()",
+                    "name": "three tenths",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "map data structure",
+                    "name": "three tens",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Array.includes(obj);",
+                    "name": "three hundreds",
                     "isAnswer": false
                 }
             ],
@@ -257,31 +257,31 @@
         },
         {
             "id": 1017,
-            "name": "What is the difference between == and === ?",
+            "name": "Which expression below is equal to - 15",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "=== throws syntex error",
+                    "name": "- 10 + 5",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "== checks values only, === checks types as well",
+                    "name": "-45/3",
                     "isAnswer": true
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "=== is reference type check only",
+                    "name": "- 3 x - 5",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Both are same",
+                    "name": "- 20 + (- 5)",
                     "isAnswer": false
                 }
             ],
@@ -293,31 +293,31 @@
         },
         {
             "id": 1018,
-            "name": "Which of the following is NOT the method of an Array?",
+            "name": "Which number property is illustrated by this expression: 5(7+9)=(5x9)+(5x7)?",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": ".map()",
+                    "name": "Associative property",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": ".includes()",
+                    "name": "Commutative property",
                     "isAnswer": false
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": ".subscribe()",
+                    "name": "Distributive property",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": ".flatMap()",
+                    "name": "Identity property",
                     "isAnswer": false
                 }
             ],
@@ -329,31 +329,31 @@
         },
         {
             "id": 1019,
-            "name": "What will be the output of the following code: ['a', 'b', 'c'].fill(7, 1, 2);?",
+            "name": "Y^9 x Y^3 =",
             "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "['a', 7, 'c']",
+                    "name": "Y^12",
                     "isAnswer": true
                 },
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "['a', 7, 7, 'b', 'c']",
+                    "name": "Y^3",
                     "isAnswer": false
                 },
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "['a', 'b', 'c']",
+                    "name": "Y^6",
                     "isAnswer": false
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "['7', 7, 'c']",
+                    "name": "Y^27",
                     "isAnswer": false
                 }
             ],

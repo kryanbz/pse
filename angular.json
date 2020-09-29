@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "ng6-quiz"
+  "defaultProject": "ng6-quiz",
+  "cli": {
+    "analytics": "31df4bc7-8e84-4d47-9977-63602c3345d1"
+  }
 }
